@@ -1,0 +1,70 @@
+
+.about-wrap {
+  margin: 70px 0;
+  padding: 20px;
+  width: 100%;
+}
+
+.about-head-title {
+  color: white;
+  font-size: 38px;
+  line-height: 60px;
+}
+.about-info {
+  color: white;
+  font-size: 18px;
+  font-weight: lighter;
+  line-height: 28px;
+}
+
+footer {
+  top: 90em;
+}
+#welcome {
+  position: absolute;
+  top: 52em;
+  width: 100%;
+  z-index: 99999999;
+}
+.left-side {
+  background: #3065b5 none repeat scroll 0 0;
+  margin: 30px 0px 30px 0px;
+  padding: 10px 10px 54px 10px;
+  width: 90%;
+}
+.right-side{}
+.about-right-side-title, .about-left-side-title {
+  color: white;
+  font-size: 28px;
+  margin: 15px 0;
+  padding: 20px;
+}
+#accordion{}
+.panel-body p, .para-1, .para-2 {
+  color: white;
+  font-size: 15px;
+  font-weight: lighter;
+  line-height: 28px;
+  margin-left: 20px;
+}
+.para-1{}
+
+.panel-title > .small, .panel-title > .small > a, .panel-title > a, .panel-title > small, .panel-title > small > a {
+  color: inherit;
+  font-size: 20px;
+}
+.panel-group .panel {
+  border-radius: 0px;
+  margin-bottom: 0;
+}
+
+.panel-default > .panel-heading {
+  background-color: transparent;
+  border-color:rgba(92, 60, 44, 0.25);
+  color: #333;
+}
+
+
+
+
+
